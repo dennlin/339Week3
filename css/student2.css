@@ -1,0 +1,52 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+ 
+ 
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+ 
+ 
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ li {
+
+    background-color: cyan;
+    border-radius: 25px;
+    border: 2px solid blue;
+    display: inline-flex;
+    width: 24;
+    padding: 20px;
+    margin: 0;
+ }
+
+ img {
+
+    background-color: cyan;
+    border-radius: 10px;
+    border: 2px solid blue;
+    display: inline-flex;
+    width: 24%;
+    padding: 13px;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ 
+ p {
+
+    background-color: cyan;
+    border-radius: 10px;
+    border: 2px solid blue;
+    display: inline-flex;
+    width: 24%;
+    padding: 13px;
+    margin: 0;
+    box-sizing: border-box;
+ }
